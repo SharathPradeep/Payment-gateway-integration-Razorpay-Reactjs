@@ -1,0 +1,10 @@
+.payment-div {
+  margin-top: 5rem;
+  opacity: 0.8;
+  height: 500px;
+  background: linear-gradient(
+    45.34deg,
+    #b28b67 5.66%,
+    #000000 94.35%
+  ) !important;
+}
